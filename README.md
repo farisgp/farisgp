@@ -3,7 +3,8 @@
 ## 👨‍💻 About Me:
 👋 Hi, I’m Faris Ghina<br>
 👀 I’m interested in Web Development, Machine Learning, AI and Data Enthusiast<br>
-🌱 I’m currently learning a new tech every day<br>
+🌱 I like to explore tech<br>
+🌱 I’m currently learning DevOps Engineer, Cloud Engineer, and Multi Platform Engineer with Flutter<br>
 📫 How to reach me farisghina51@gmail.com<br>
 
 ### Tech Stack
